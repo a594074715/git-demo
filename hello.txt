@@ -7,6 +7,7 @@ hello jinwang! hello git!
 hello jinwang! hello git!
 hello jinwang! hello git!master test1
 hello jinwang! hello git!
+hello jinwang! hello git!hot-fix test1
 hello jinwang! hello git!
 hello jinwang! hello git!
 hello jinwang! hello git!
